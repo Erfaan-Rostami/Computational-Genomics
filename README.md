@@ -6,3 +6,4 @@ annotation of genes and the discovery of patterns that assist in understanding u
 <pre> -paper: <a href="https://arxiv.org/pdf/0912.3848.pdf">Wavelets on Graphs via Spectral Graph Theory</a> </pre>
 <pre>-paper:</pre>
 
+<h2>The real questions on my mind</h1>
